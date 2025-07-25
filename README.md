@@ -17,3 +17,6 @@ These phrases are converted into spaCy Doc objects so that when the user inputs 
 The chatbot operates inside a loop controlled by the chat() function. This loop continuously reads input from the user, checks if the exit condition (“exit”) is met, and otherwise prints the selected response. This allows for an uninterrupted conversational experience where the user can interact freely until they choose to end the session.
 Additionally, the sys module is imported—though not actively used in the displayed code, it may serve future debugging or encoding fixes, especially when rendering emojis on diverse operating systems. Debugging output like print("DEBUG: Processing input:", user_input) provides transparency during development by showing what the chatbot is analyzing behind the scenes.
 
+*OUTPUT*:
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2a51ed46-3b81-41bd-bd57-9aca842b2d66" />
